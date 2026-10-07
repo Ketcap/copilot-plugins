@@ -432,7 +432,7 @@
         "source": "github",
         "repo": "integromat/make-skills",
         "path": "plugins/make-skills-copilot",
-        "sha": "6a4faeff1915da4036d4fe6ebc47e97573b0429e"
+        "sha": "c65bcccb07d1a28284734d718099d36b250a792a"
       }
     },
     {
@@ -457,7 +457,7 @@
         "source": "github",
         "repo": "integromat/make-skills",
         "path": "plugins/make-skills-copilot",
-        "sha": "6a4faeff1915da4036d4fe6ebc47e97573b0429e"
+        "sha": "c65bcccb07d1a28284734d718099d36b250a792a"
       }
     }
   ]
